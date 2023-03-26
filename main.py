@@ -27,6 +27,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+st.markdown('Enjoy your day!')
 
-st.caption('Enjoy your day!')
+st.markdown('You can find the _simple_ source code in the [GitHub Repository](https://github.com/logikblok/wonderfulwords)')
 st.markdown("Other [sketches by logikblok](https://logikblok.github.io/sketches)")
